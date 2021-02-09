@@ -1,6 +1,6 @@
 apiVersion: v2
 name: ct-test-chart2
-description: A Helm chart to test chart-testing.
+description: A Helm chart to test chart-testing. More description.
 
 # A chart can be either an 'application' or a 'library' chart.
 #
