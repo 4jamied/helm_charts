@@ -1,5 +1,5 @@
 apiVersion: v2
-name: crocodile
+name: crocodile-dundee
 description: A Helm chart to test chart-testing. More description. still more.
 
 # A chart can be either an 'application' or a 'library' chart.
@@ -24,3 +24,5 @@ appVersion: 3.17.0
 
 maintainers:
   - name: "4jamied"
+
+icon: https://img.icons8.com/cotton/64/000000/online-shop-2--v2.png
